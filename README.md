@@ -1,3 +1,7 @@
+"It's what John West rejects that makes John West the best."
+
+Here's where I put rejected PRs that, in my oppinion, are superior.
+
 <a href="https://imhex.werwolv.net">
   <h1 align="center">
     <picture>

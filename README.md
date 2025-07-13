@@ -1,6 +1,6 @@
 "It's the fish that John West reject that makes John West the best"
 
-Here's where I put rejected PRs that, in my oppinion, are superior.
+Here's where I put rejected PRs that, in my opinion, are superior.
 
 <a href="https://imhex.werwolv.net">
   <h1 align="center">

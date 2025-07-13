@@ -1,4 +1,4 @@
-"It's what John West rejects that makes John West the best."
+"It's the fish that John West reject that makes John West the best"
 
 Here's where I put rejected PRs that, in my oppinion, are superior.
 

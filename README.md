@@ -2,8 +2,7 @@
 
 Here's where I put rejected PRs that, in my opinion, are superior.
 
-Below is the origional README
--------------------------------------------------------------------S
+Below is the original unaltered README
 
 <a href="https://imhex.werwolv.net">
   <h1 align="center">
